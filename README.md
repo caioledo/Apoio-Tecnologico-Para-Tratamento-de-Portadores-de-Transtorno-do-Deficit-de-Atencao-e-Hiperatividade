@@ -67,7 +67,10 @@ O jogo acaba após o jogador ser acertado por duas bombas.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Desenvolvido por
+
 Caio de Oliveira Bastos
+
 Caio Seligmann Ledo
+
 
 2019
